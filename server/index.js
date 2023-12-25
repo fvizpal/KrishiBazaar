@@ -5,7 +5,6 @@ import dotenv from "dotenv";
 import morgan from "morgan";
 import helmet from "helmet";
 import multer from "multer";
-import bodyParser from "body-parser";
 import path from "path";
 import { fileURLToPath } from "url";
 

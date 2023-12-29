@@ -39,6 +39,10 @@ const navItems = [
         icon: <HomeOutlined />,
     },
     {
+        text: "Client Stats",
+        icon: null,
+    },
+    {
         text: "Products",
         icon: <ShoppingCartOutlined />,
     },
@@ -55,6 +59,10 @@ const navItems = [
         icon: <PublicOutlined />,
     },
     {
+        text: "Sales",
+        icon: null,
+    },
+    {
         text: "Overview",
         icon: <PointOfSaleOutlined />,
     },
@@ -69,14 +77,6 @@ const navItems = [
     {
         text: "Breakdown",
         icon: <PieChartOutlined />,
-    },
-    {
-        text: "Admin",
-        icon: <AdminPanelSettingsOutlined />,
-    },
-    {
-        text: "Performance",
-        icon: <TrendingUpOutlined />,
     },
 ];
 

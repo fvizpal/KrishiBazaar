@@ -24,8 +24,6 @@ import {
     PointOfSaleOutlined,
     TodayOutlined,
     CalendarMonthOutlined,
-    AdminPanelSettingsOutlined,
-    TrendingUpOutlined,
     PieChartOutlined,
 } from "@mui/icons-material";
 import { useEffect, useState } from "react";
